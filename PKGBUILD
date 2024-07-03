@@ -12,7 +12,7 @@ depends=('python' 'python-amulet-nbt' 'python-numpy')
 makedepends=('python-build' 'python-installer' 'python-setuptools' 'python-versioneer' 'python-wheel')
 
 source=("${pkgname}-${pkgver}.tar.gz::https://github.com/gentlegiantJGC/PyMCTranslate/archive/refs/tags/${pkgver}.tar.gz")
-sha256sums=('bac61b0b01f38cba5c69210c86ce1843e66da6de622997fab850f00694d6f380')
+sha256sums=('9fc8f309d66d15593110bc25a95395e3a2f2a01ea3d5da865aa44c5d309e465c')
 
 prepare() {
   cd "${_name}-${pkgver}"

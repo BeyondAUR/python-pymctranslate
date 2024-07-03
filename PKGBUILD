@@ -2,7 +2,7 @@
 
 _name=PyMCTranslate
 pkgname=python-pymctranslate
-pkgver=1.2.22
+pkgver=1.2.27
 pkgrel=1
 pkgdesc='A library of block mappings that can be used to convert from any Minecraft format into any other Minecraft format'
 arch=('any')
